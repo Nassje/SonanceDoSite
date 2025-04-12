@@ -1,0 +1,72 @@
+Privacy Policy for SayToDo Enhanced
+Last Updated: April 12, 2025
+Introduction
+Naser Harif ("I", "me", or "my") respects your privacy and is committed to protecting it through compliance with this policy. This Privacy Policy describes how your personal information is collected, used, and shared when you use the SayToDo Enhanced application ("App").
+Information We Collect
+Information You Provide
+When using SayToDo Enhanced, you may provide the following types of information:
+* Task Information: Task titles, descriptions, due dates, categories, priorities, and notes.
+* Speech Data: Voice recordings that are processed for transcription when using the voice input feature.
+* App Settings: Your preferences such as selected language, accent color, and notification settings.
+Information Collected Automatically
+We may automatically collect certain information when you use the App:
+* Usage Data: Information about how you use the App, including task creation patterns and feature usage statistics.
+* Device Information: Device type, operating system version, and device identifiers.
+How We Use Your Information
+We use the information we collect to:
+* Provide, maintain, and improve the App
+* Create, manage, and organize your tasks
+* Process your voice inputs into text for task creation
+* Send notifications about your tasks
+* Respond to your requests or inquiries
+* Develop new features and improvements
+Data Storage
+Local Storage
+SayToDo Enhanced primarily stores your information locally on your device using secure iOS storage mechanisms:
+* Task data is stored using SwiftData
+* App settings are stored using UserDefaults
+* Voice recordings are processed locally and then deleted once transcription is complete
+Third-Party Services
+The App uses the following third-party services:
+* OpenAI API: When you use voice input features, your speech is transcribed locally and the resulting text may be sent to OpenAI's API for natural language processing to identify tasks, dates, priorities, and categories. The OpenAI API processes this text according to their privacy policy available at https://openai.com/policies/privacy-policy.
+Data Sharing and Disclosure
+We do not sell, trade, or otherwise transfer your personal information to outside parties except as specifically described in this policy. We may share information in the following situations:
+* Service Providers: With third-party service providers that perform services on our behalf (like OpenAI for natural language processing of text).
+* Legal Requirements: When required by law or in response to valid requests from public authorities.
+* Business Transfers: In connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.
+* With Your Consent: In other ways described to you at the time of collection or with your consent.
+Your Privacy Rights
+Depending on your location, you may have certain rights regarding your personal information:
+* Access: You can request access to the data we hold about you.
+* Correction: You can request that we correct inaccurate or incomplete information.
+* Deletion: You can request that we delete your personal information.
+* Data Portability: You can request a copy of the information we have in a structured, machine-readable format.
+To exercise these rights, please contact us using the information provided at the end of this policy.
+Data Security
+We implement appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage. However, no method of transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+Children's Privacy
+The App is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected personal information from a child under 13, we will delete that information.
+Your Choices
+Permissions
+The App requests the following permissions:
+* Microphone Access: Required for voice input features. You can enable or disable microphone access in your device settings.
+* Speech Recognition: Required for transcribing voice to text. You can manage this permission in your device settings.
+* Notification Access: Required for task reminders. You can manage notification settings both in the App and in your device settings.
+App Settings
+You can manage various privacy-related settings within the App:
+* Change or disable your preferred language for speech recognition
+* Control when and how notifications are sent
+* Delete task data within the app
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. The updated version will be indicated by an updated "Last Updated" date, and the updated version will be effective as soon as it is accessible. We encourage you to review this Privacy Policy frequently to be informed of how we are protecting your information.
+Contact Information
+If you have questions or concerns about this Privacy Policy, please contact me at:
+Naser Harif Email: N.Harif@Outlook.com Website: SonanceDo.com
+App Store Information
+SayToDo Enhanced is available on the Apple App Store. When downloading the App through the App Store, Apple may collect and share certain information with us as the developer. The information shared by Apple with us is subject to Apple's Privacy Policy, which can be found at https://www.apple.com/legal/privacy/.
+Compliance with Apple Guidelines
+This App complies with Apple's App Store Review Guidelines regarding privacy, including:
+* Requesting only the data and permissions that are necessary for the functioning of the App
+* Providing clear explanations of how data is used
+* Storing and processing data securely
+* Providing this privacy policy that accurately describes our data collection and use
